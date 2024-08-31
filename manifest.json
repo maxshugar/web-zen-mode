@@ -14,5 +14,5 @@
 			"matches": ["*://*.youtube.com/*"]
 		}
 	],
-	"permissions": ["scripting", "activeTab", "storage"]
+	"permissions": ["scripting"]
 }
